@@ -8,6 +8,8 @@ I also spent time working with the first years helping out during the robot olym
 ## Week One
 During my first week I have started my Ethics and Professionalism Research and created my proposal for my desired topic, which is based on gambling and it's influences within video gaming.
 
-I finished my world pitch and began practicing timings.
+I finished my world pitch and began practicing timings. Started working with my group to create a prototype of our game concept.
+
+Started work with OpenGL working on creating a triangle.
 
 ## Week Two
