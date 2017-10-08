@@ -13,3 +13,8 @@ I finished my world pitch and began practicing timings. Started working with my 
 Started work with OpenGL working on creating a triangle.
 
 ## Week Two
+During this week I worked on expanding my references for the Ethics and Professionalism essay, I have also begun to look at some papers regarding AR/VR. 
+
+I did furter work on a prototype for the group project, working on the Taco Truck game I was working on driving mechanics.
+
+I also made minor changes to the Website for Comp210, however much more work needs to go into the website before it is finished.
