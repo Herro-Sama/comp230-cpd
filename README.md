@@ -18,3 +18,12 @@ During this week I worked on expanding my references for the Ethics and Professi
 I did furter work on a prototype for the group project, working on the Taco Truck game I was working on driving mechanics.
 
 I also made minor changes to the Website for Comp210, however much more work needs to go into the website before it is finished.
+
+## Week Three
+In week three we began working on a new prototype called wacky guns, I however didn't contribute much to this prototype as I was instead working mainly on planning out my reasarch for my Comp210 usability report.
+
+## Week Four
+During week four I have found that spent a lot of time doing my usability survey, and collecting data points however I still have a lot of work that needs to be done to the website hosting my usability report.
+
+## Week Five
+
