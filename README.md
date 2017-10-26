@@ -26,4 +26,12 @@ In week three we began working on a new prototype called wacky guns, I however d
 During week four I have found that spent a lot of time doing my usability survey, and collecting data points however I still have a lot of work that needs to be done to the website hosting my usability report.
 
 ## Week Five
+This week the igda scholarship opened up and I started looking into setting up a not terrible looking portfolio. 
+
+I also had to perform a pitch for my groups game.
+
+I finished my first assignment however I wish I had spent more time working on it.
+
+Started my research journals properly now, and have start contributing information to the wiki. 
+
 
