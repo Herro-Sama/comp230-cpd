@@ -34,4 +34,13 @@ I finished my first assignment however I wish I had spent more time working on i
 
 Started my research journals properly now, and have start contributing information to the wiki. 
 
+## Week Six
+During week six, I had focused mainly on the group game for Comp230.
+
+I did some work into both my ethics essay, but also the some of the research journal for Comp210.
+
+## Week Seven
+This week has been purely working on essays almost, I would like to have spent more time doing Comp220 work however this was a lower priority.
+
+## Week Eight
 
