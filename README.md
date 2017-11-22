@@ -43,4 +43,4 @@ I did some work into both my ethics essay, but also the some of the research jou
 This week has been purely working on essays almost, I would like to have spent more time doing Comp220 work however this was a lower priority.
 
 ## Week Eight
-
+I didn't do as much work as I would have liked for the group project, I need to stay more focused on the project as a whole instead of the people I work with. Otherwise I have been working on my VR game, though I have fallen behind in Graphics and Simulations. I will need to spend some time working on it these next few days to ensure that I have spent at least some time.
