@@ -1,48 +1,36 @@
-# Weekly Reports
-
-## Week Zero/Summer
-During my summer I have spent time doing some minor work in Unity looking at Hex based programming and design.
-
-I also spent time working with the first years helping out during the robot olympics/robot wars and spending time getting to know some of them.
-
+# Semester Two
 ## Week One
-During my first week I have started my Ethics and Professionalism Research and created my proposal for my desired topic, which is based on gambling and it's influences within video gaming.
-
-I finished my world pitch and began practicing timings. Started working with my group to create a prototype of our game concept.
-
-Started work with OpenGL working on creating a triangle.
+During the break, my team and I have been making a different game. This is because we felt that our original game didn't work in the way we had hoped so we took it in a new direction instead.
 
 ## Week Two
-During this week I worked on expanding my references for the Ethics and Professionalism essay, I have also begun to look at some papers regarding AR/VR. 
-
-I did furter work on a prototype for the group project, working on the Taco Truck game I was working on driving mechanics.
-
-I also made minor changes to the Website for Comp210, however much more work needs to go into the website before it is finished.
+It's quite interesting the more we explore the various areas surrounding networking it doesn't seem to be nearly as scary as I had initally thought it would have been. I still think that it's probably very difficult to make something good but getting devices to talk to each other doesn't seem as bad at least.
 
 ## Week Three
-In week three we began working on a new prototype called wacky guns, I however didn't contribute much to this prototype as I was instead working mainly on planning out my reasarch for my Comp210 usability report.
+Business seems incredibly easy compared to getting the actual servers and the AI game components done.
 
 ## Week Four
-During week four I have found that spent a lot of time doing my usability survey, and collecting data points however I still have a lot of work that needs to be done to the website hosting my usability report.
+Been really struggling with my game component as it's not really working yet. Neural networks are hard, to implement and get working.
 
 ## Week Five
-This week the igda scholarship opened up and I started looking into setting up a not terrible looking portfolio. 
-
-I also had to perform a pitch for my groups game.
-
-I finished my first assignment however I wish I had spent more time working on it.
-
-Started my research journals properly now, and have start contributing information to the wiki. 
+Presenting the business case I thought would have been a bigger deal but it wasn't, the group game is still progressing at an okay rate though it has certainly dipped since the Janurary.
 
 ## Week Six
-During week six, I had focused mainly on the group game for Comp230.
-
-I did some work into both my ethics essay, but also the some of the research journal for Comp210.
+Just spent time working on the game project, though it certainly needs more work especially with animations however our animator doesn't seem to be able to make it in or consistenly do work.
 
 ## Week Seven
-This week has been purely working on essays almost, I would like to have spent more time doing Comp220 work however this was a lower priority.
+Pathfinding was actually a really interesting lecture, though I still feel like there must be a more efficent heuristic for finding a path, that however is probably a PHD question rather than something that I will actually have to think about properly.
 
 ## Week Eight
-I didn't do as much work as I would have liked for the group project, I need to stay more focused on the project as a whole instead of the people I work with. Otherwise I have been working on my VR game, though I have fallen behind in Graphics and Simulations. I will need to spend some time working on it these next few days to ensure that I have spent at least some time.
+I haven't actually looked at my server stuff since the last hand-in, which is worrying me as we are getting more and more complex things to deal with going forward. I still haven't been able to get my Virtual Linux machine to work, so I will need to get help with that quite soon.
 
 ## Week Nine
+The issue, I have had with this weeks lecture on Neural networks is that I really needed the information about this much earlier than I got it. It was still very interesting but I knew most of the information from my own research for my game component piece, which still doesn't work.
+
+## Week Ten
+
+
+## Week Eleven
+
+
+## Week Twelve
+I really enjoyed the lecture on the ethics of AI, I still really enjoy the debating of what is an ethical choice for AI to make and should they be allowed to guess at certain information.
